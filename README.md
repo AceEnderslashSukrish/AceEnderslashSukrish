@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/93150595/166331796-8ed91271-9f4a-4aba-8880-2e2575fe35f8.png" width=500px>
 </p>
 
-## Hi there 👋
+## Hello there 👋 <img src="https://cdn-icons-png.flaticon.com/512/2590/2590297.png" width=20px>
 
 ## Welcome to my Github Page!
 <hr>
