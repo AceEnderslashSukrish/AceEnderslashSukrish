@@ -1,3 +1,7 @@
+<p align=center>
+<img src="https://user-images.githubusercontent.com/93150595/166331796-8ed91271-9f4a-4aba-8880-2e2575fe35f8.png">
+</p>
+
 ## Hi there 👋
 
 ## Welcome to my Github Page!
