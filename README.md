@@ -2,10 +2,8 @@
 <img src="https://user-images.githubusercontent.com/93150595/166331796-8ed91271-9f4a-4aba-8880-2e2575fe35f8.png" width=500px>
 </p>
 
-## Hello there 👋 <img src="https://cdn-icons-png.flaticon.com/512/2590/2590297.png" width=20px>
+## Hello there 👋 <img src="https://cdn-icons-png.flaticon.com/512/2590/2590297.png" width=20px><br> Welcome to my Github Page!
 
-## Welcome to my Github Page!
-<hr>
 <h4>Who Am I?</h4>
 
 <li>📚 Student at Centennial College - enrolled in Game Programming class of 2024</li>
