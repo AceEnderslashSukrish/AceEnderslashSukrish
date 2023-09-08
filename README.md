@@ -14,7 +14,7 @@
 <h4>Hobbies</h4>
 <li>✏️ Love to draw (casual)</li>
 <li>♟️ Dabble in chess from time-to-time</li>
-<li>🎮 Full-On Gamer - <img src="https://i.redd.it/inzkd3uhtrqa1.jpg" width=20px> The Last of Us Part I and II / <img src="https://www.freepnglogos.com/uploads/apex-legends-logo-png/apex-icon-transparent-logo-red-background-apex-legends-17.png" width=20px> Apex Legends / <img src="https://yoolk.ninja/wp-content/uploads/2020/06/Games-Valorant-1024x1024.png" width=20px> Valorant</li>
+<li>🎮 Full-On Gamer - <img src="[https://i.redd.it/inzkd3uhtrqa1.jpg](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/3367fa99-0ba6-454c-b947-683f1a9f896d/ddubnnb-f36fce94-3731-465f-9b8e-d58808937c12.png/v1/fill/w_512,h_512/the_last_of_us_part_ii_icon_ico_by_momen221_ddubnnb-fullview.png)" width=20px> The Last of Us Part I and II / <img src="https://www.freepnglogos.com/uploads/apex-legends-logo-png/apex-icon-transparent-logo-red-background-apex-legends-17.png" width=20px> Apex Legends / <img src="https://yoolk.ninja/wp-content/uploads/2020/06/Games-Valorant-1024x1024.png" width=20px> Valorant</li>
 <li>🏸 Love playing badminton</li>
 <li>🥋 Used to do some martial arts (Tae-Kwon-Do) - Attained Black Belt (First Dan) at the age of 12</li>
 
