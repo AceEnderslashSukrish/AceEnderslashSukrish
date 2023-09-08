@@ -9,7 +9,7 @@
 <li>📚 Student at Centennial College - enrolled in Game Programming class of 2024</li>
 <li>👓 18 years old</li>
 <li>🎧 Spotify while coding</li>
-<li>💻 I'm currently working on the <a href="https://github.com/AceEnderslashSukrish/100DaysOfCode">100-Days-Of-Code</a> project</li>
+<li>💻 Participated in the <a href="https://github.com/AceEnderslashSukrish/100DaysOfCode">100-Days-Of-Code</a> project</li>
 
 <h4>Hobbies</h4>
 <li>✏️ Love to draw (casual)</li>
