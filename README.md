@@ -20,7 +20,7 @@
 
 <h4>Skills</h4>
 <p>
-<a href = "https://www.linkedin.com/in/sukrish-gokulakrishnan-009ba5255/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+<a href = "https://www.linkedin.com/in/sukrish-gokulakrishnan-009ba5255/"><img src="[https://cdn-icons-png.flaticon.com/512/174/174857.png](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1024px-LinkedIn_icon_circle.svg.png)"></a>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=50px>
 <img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" width=50px>
 <img src="https://freeiconshop.com/wp-content/uploads/edd/html-flat.png" width=50px>
