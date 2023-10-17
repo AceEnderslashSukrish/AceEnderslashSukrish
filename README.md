@@ -20,7 +20,6 @@
 
 <h4>Skills</h4>
 <p>
-<a href = "https://www.linkedin.com/in/sukrish-gokulakrishnan-009ba5255/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=50px></a>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=50px>
 <img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" width=50px>
 <img src="https://freeiconshop.com/wp-content/uploads/edd/html-flat.png" width=50px>
@@ -28,6 +27,11 @@
 <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width=50px>
 <img src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" width=50px>
 <img src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" width=50px>
+</p>
+
+<h4>Socials</h4>
+<p>
+<a href = "https://www.linkedin.com/in/sukrish-gokulakrishnan-009ba5255/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=50px></a>  
 </p>
 <!--
 **AceEnderslashSukrish/AceEnderslashSukrish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
