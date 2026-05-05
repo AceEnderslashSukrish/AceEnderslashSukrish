@@ -6,8 +6,8 @@
 
 <h4>Who Am I?</h4>
 
-<li>📚 Student at Centennial College - enrolled in Game Programming class of 2024</li>
-<li>👓 20 years old</li>
+<li>📚 Centennial College Student - enrolled in Game Programming class of 2024</li>
+<li>👓 22 years old</li>
 <li>🎧 Spotify while coding</li>
 <li>💻 Participated in the <a href="https://github.com/AceEnderslashSukrish/100DaysOfCode">100-Days-Of-Code</a> project</li>
 
