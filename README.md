@@ -20,14 +20,14 @@
 
 <h4>Skills</h4>
 <p>
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=50px>
-<img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" width=50px>
-<img src="https://freeiconspng.com/uploads/html5-icon-4.png" width=50px>
-<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" width=50px>
-<img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width=50px>
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=50px> <!-- Python -->
+<img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" width=50px> <!-- C# -->
+<img src="https://freeiconspng.com/uploads/html5-icon-4.png" width=50px> <!-- HTML5 -->
+<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" width=50px> <!-- This is a CSS Image -->
+<img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width=50px> <!-- JavaScript -->
 <img src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" width=50px>
-<!-- couldn't find image link <img src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" width=50px>
-  
+<!-- couldn't find image link 
+  <img src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" width=50px> -->
 </p>
 
 <h4>Socials</h4>
